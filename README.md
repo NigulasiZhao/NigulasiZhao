@@ -13,9 +13,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats-kappa-five-56.vercel.app/api?username=nigulasizhao&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-wqbs.vercel.app/api?username=NigulasiZhao&theme=shadow_green )
 
-[![Top Langs](https://github-readme-stats-kappa-five-56.vercel.app/api/top-langs/?username=nigulasizhao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-wqbs.vercel.app/api/top-langs/?username=NigulasiZhao&layout=compact&theme=shadow_green )](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
